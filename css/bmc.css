@@ -1,0 +1,18 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.bmc-the-good-doctor-image-margins {
+  /*position: absolute;*/
+  /*left: 50%;*/
+  /*top: 50%;*/
+  /*transform: translateY(-50%) translateX(-50%);*/
+  /*margin-right: -90px;*/
+  /*margin-left: -120px;*/
+}
+
+.bmc-fake-centralize {
+  /*position: absolute;*/
+  /*top: 0;*/
+}
